@@ -7,9 +7,11 @@ public class exercicio5 {
 		Scanner in = new Scanner(System.in);
 		System.out.println("Insira seu gênero com F-Feminino | M - Masculino: ");
 		char a = in.next().charAt(0) ;
-		if (a == 'm' || a == 'M')
+		if (a == 'm' || a == 'M') {
 			System.out.println("Masculino");
-		 else if  (a == 'f' || a =='F')
+		}else {
+			if (a == 'f' || a =='F');
+		}
 		System.out.println("Feminino");
 		
 	}
