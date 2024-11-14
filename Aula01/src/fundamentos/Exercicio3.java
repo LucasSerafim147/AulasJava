@@ -22,6 +22,8 @@ public class Exercicio3 {
 		System.out.println("É sexta! ");
 	else if(semana == 7)
 		System.out.println("É Sábado! ");
+	else
+		System.out.println("Valor inválido");
 	}
 
 }
