@@ -10,6 +10,8 @@ public class JavaMetodos {
 		return idade;
 	}
 	double valor() {
+		System.out.println("Digite o valor: ");
+		
 		return 25.50;
 	}
 	String nome() {
