@@ -5,8 +5,8 @@ public class concessionaria {
 		carro c0 = new carro();
 		carro c1 = new carro("Azul");
 		carro c2 = new carro("preto", "Onix", 1200.00);
+		carro c3 = new honda("V8","civic","prata",1200.00);
 		
-		c1.desligar();
-		c1.acelerar();
+		c3.desligar();
 	}
 }
