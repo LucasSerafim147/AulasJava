@@ -11,7 +11,26 @@ public class UsoMembros {
 		dt2.mes = 01;
 		dt2.ano = 1992;
 		
-		System.out.printf("A data de Nascimento" + " é %d %d %d \n",dt.dia,dt.mes,dt.ano);
+		System.out.printf("A data de Nascimento" + " é %d %d %d\n ",dt.dia,dt.mes,dt.ano);
 		System.out.printf("A data de Nascimento" + " é %d %d %d ",dt2.dia,dt2.mes,dt2.ano);
 	} 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
