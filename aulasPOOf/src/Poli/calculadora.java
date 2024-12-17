@@ -9,8 +9,7 @@ public class calculadora {
 		System.out.println(a.somar(10.5, 13.5));
 		System.out.println(b.somar(10, 12.6));
 		System.out.println(b.somar(12, 12, 12));
-		
-		
+	
 		
 	}
 
